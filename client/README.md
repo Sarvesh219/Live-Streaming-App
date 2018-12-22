@@ -39,7 +39,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Dependencies
 
-You can see the dependencies installed in the **package.json** file and install then using `npm install --save (module-name)`.
+You can see the dependencies installed in the **package.json** file and install them using `npm install --save (module-name)`.
 
 ## Learn More
 
